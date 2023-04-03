@@ -67,7 +67,26 @@ Data science and machine learning applications have been widely used in the acco
 
 5. **Sentiment Analysis**: Text mining techniques can be used to analyze customer reviews and feedback, helping businesses understand customer sentiment and identify areas for improvement.
 
+6. **Recommender System for Hotel Bookings**: This project involves building a recommendation system that suggests personalized hotel bookings based on the customer's preferences, budget, location, and other factors.
+
+7. **Customer Segmentation for Restaurants**: In this project, data from customer reviews and feedback is analyzed to segment customers into different groups based on their preferences, demographics, and behavior. This information can then be used to optimize menus, promotions, and other restaurant operations.
+
+8. **Predictive Maintenance for Kitchen Equipment**: Using machine learning algorithms, this project involves predicting equipment failure and maintenance needs for commercial kitchens. This can help prevent downtime, reduce repair costs, and improve overall efficiency.
+
+9. **Food Quality Monitoring and Fraud Detection**: This project involves analyzing data from various sources, such as sensor data, supply chain data, and customer feedback, to monitor food quality and detect potential fraud or contamination issues. This can help prevent foodborne illnesses and protect consumers.
+
+10. **Dynamic Pricing for Hotel Rooms**: In this project, machine learning algorithms are used to predict demand for hotel rooms and optimize pricing based on various factors, such as seasonality, location, and events. This can help increase revenue and occupancy rates for hotels.
+
 Overall, the use of data science and machine learning applications in the accommodation and food industry can help businesses make more informed decisions, improve operations, and provide better customer experiences.
+
+### Dataset and Project Example
+
+- [Food Recommendation](https://github.com/gabrielilharco/snap-n-eat)
+- [Food Recommendation System](https://github.com/Data-Science-Community-SRM/Food-Recommendation-System)
+- [Meal Recipe Recommendation System](https://github.com/amoghsinkar910/FoodRec-Meal-recipe-recommendation-system)
+- [Sentiment Analysis Topic Modelling for Hotel Reviews](https://github.com/Jiamei-Wang/Sentiment-Analysis-Topic-Modeling-for-Hotel-Reviews/blob/master/Capstone_Project.ipynb)
+- [Hotel Booking Cancellation Prediction](https://www.kaggle.com/code/niteshyadav3103/hotel-booking-prediction-99-5-acc)
+- [Hotel Price Prediction](https://www.kaggle.com/code/pmassouf/hotel-price-prediction)
 
 ## Accounting
 
@@ -84,6 +103,13 @@ Data science and machine learning applications have revolutionized the accountin
 4. **Automation of Repetitive Tasks**: In accounting and finance, many tasks are repetitive and time-consuming, such as data entry and report generation. Automation using machine learning algorithms can streamline these processes, reduce errors, and free up time for employees to focus on higher-level tasks.
 
 Overall, data science and machine learning have numerous applications in the accounting and finance industry, providing valuable insights and efficiencies that can help improve financial performance and reduce risk.
+
+
+### Dataset and Project Example
+
+- [Accounting Fraud Detection](https://github.com/JarFraud/FraudDetection)
+- [Anomay Detection in Credit Card Transactions](https://www.kaggle.com/code/sugataghosh/anomaly-detection-in-credit-card-transactions)
+- [Financial Forecasting](https://github.com/bukosabino/financial-forecasting-challenge-gresearch)
 
 
 ## Agriculture and Farming
@@ -106,6 +132,10 @@ Data science and machine learning have a significant impact on the agriculture a
 
 7. **Supply chain optimization**: Use data from farms, distributors, and retailers to develop models that can optimize the supply chain, reduce waste, and improve efficiency.
 
+### Dataset and Project Example
+
+- [Crop Yield Prediction](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset)
+- [Supply Chain Optimization](https://www.kaggle.com/code/arindamgot/eda-prophet-mlp-neural-network-forecasting)
 
 ## Aerospace
 
@@ -131,6 +161,10 @@ Data science and machine learning can help the aerospace industry in various way
 
 These are just a few examples of how data science and machine learning can be applied in the aerospace industry to improve safety, efficiency, and sustainability.
 
+### Dataset and Project Example
+
+- [SpaceX Launches Falcon9 and Falcon Heavy](https://www.kaggle.com/datasets/heyrobin/space-x-launches-falcon9-and-falcon-heavy)
+- [Panel Dataset / Cost Data of U.S. Airlines](https://www.kaggle.com/datasets/sandhyakrishnan02/paneldata)
 
 ## Audit
 
