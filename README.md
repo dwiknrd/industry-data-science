@@ -232,6 +232,9 @@ Here are some project ideas for data science and machine learning in banking and
 
 Overall, the use of data science and machine learning in banking and finance industry has the potential to improve operational efficiency, reduce costs, enhance customer experience, and drive innovation.
 
+### Dataset and Project Example
+
+- [Customer Segmentation](https://www.kaggle.com/code/fabiendaniel/customer-segmentation)
 
 ## Biotechnological
 
@@ -255,6 +258,12 @@ Data science and machine learning have a significant impact on the biotechnologi
 
 These are just a few examples of how data science and machine learning can be used in the biotechnological industry to accelerate scientific discovery, improve patient outcomes, and drive innovation.
 
+### Dataset and Project Example
+
+- [Drosophila Melanogaster Genome](https://www.kaggle.com/datasets/mylesoneill/drosophila-melanogaster-genome)
+- [Insect Village Synthetic Dataset](https://www.kaggle.com/datasets/vencerlanz09/insect-village-synthetic-dataset)
+- [Stem cell content prediction in bioprocess](https://www.kaggle.com/datasets/ricardoluis/stem-cell-content-prediction-in-bioprocess)
+- 
 
 ## Construction and Engineering
 
@@ -276,6 +285,10 @@ Data science and machine learning can be used in the construction and engineerin
 
 Some specific project ideas that use data science and machine learning in the construction and engineering industry include predicting project timelines and budgets, analyzing sensor data to detect equipment failures and reduce maintenance costs, optimizing construction material usage to reduce waste and costs, and identifying safety risks on job sites through image analysis and sensor data.
 
+### Dataset and Project Example
+
+- [Calculate Concrete Strength](https://www.kaggle.com/datasets/prathamtripathi/regression-with-neural-networking)
+
 
 ## Creative arts
 
@@ -293,6 +306,10 @@ The creative arts industry includes various fields such as music, film, fashion,
 
 5. **Marketing optimization**: Use data analysis and machine learning to optimize marketing campaigns for creative products such as music, film, and art. This can involve targeting specific audiences, predicting engagement levels, and identifying the most effective channels for promotion.
 
+### Dataset and Project Example
+
+- [Spotify Recommendation System](https://github.com/ucalyptus/Spotify-Recommendation-Engine)
+- [Music Recommendation System](https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset)
 
 ## Defense and security
 
