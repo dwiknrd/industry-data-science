@@ -255,6 +255,14 @@ Overall, the use of data science and machine learning in banking and finance ind
 ### Dataset and Project Example
 
 - [Customer Segmentation](https://www.kaggle.com/code/fabiendaniel/customer-segmentation)
+- [Kaggle - Bank Marketing](https://www.kaggle.com/datasets/rouseguy/bankbalanced): This dataset contains data on a bank's marketing campaign related to deposit products. You can use this dataset for classification projects to predict whether a customer will subscribe to a term deposit or not.
+- [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud): This dataset includes credit card transactions, including both normal and fraudulent transactions. You can utilize this dataset for classification projects to develop a model for credit card fraud detection.
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) - Bank Marketing: This dataset provides marketing data for a bank's telemarketing campaign. The goal of this dataset is to predict whether a customer will subscribe to a term deposit. It can be used for classification projects.
+- [World Bank Open Data](https://data.worldbank.org/): The World Bank offers various financial, economic, and banking-related datasets from different countries worldwide. You can search and download relevant datasets for your project.
+- [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/): FRED is a source of economic data provided by the Federal Reserve Bank of St. Louis. You can access datasets related to interest rates, inflation, labor markets, and more.
+- [LendingClub Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club): LendingClub is a peer-to-peer lending platform. They provide a dataset containing information about loans, borrower profiles, and loan outcomes. This dataset can be used for classification or regression projects.
+- [Yahoo Finance](https://finance.yahoo.com/?guccounter=1): Yahoo Finance provides financial data and historical stock prices for publicly traded companies. You can access this data through APIs or download it in CSV format. It can be used for regression or time series forecasting projects.
+- [Kaggle - Retail Sales Forecasting](https://www.kaggle.com/datasets/manjeetsingh/retaildataset): This dataset provides historical retail sales data, including the daily sales of different products. You can use this dataset for sales forecasting projects in the retail banking industry.
 
 ## Biotechnological
 
